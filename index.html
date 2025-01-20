@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Image Gallery - AnimeVibe AI</title>
+</head>
+<body>
+    <header>
+        <h1>AnimeVibe AI Image Gallery</h1>
+        <input type="text" id="searchBar" placeholder="Search images...">
+        <nav>
+            <ul id="categories">
+                <li data-filter="all">All</li>
+                <li data-filter="nature">Nature</li>
+                <li data-filter="architecture">Architecture</li>
+                <li data-filter="animals">Animals</li>
+                <li data-filter="abstract">Abstract</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="gallery"></main>
+
+    <div id="imageModal" class="modal">
+        <span class="close" id="closeModal">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div id="imageDetails">
+            <h2 id="imageTitle"></h2>
+            <p id="imageDescription"></p>
+            <p><strong>Resolution:</strong> <span id="imageResolution"></span></p>
+            <p><strong>File Size:</strong> <span id="imageSize"></span></p>
+            <button id="downloadBtn">Download</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
