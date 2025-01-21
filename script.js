@@ -7,6 +7,15 @@ const images = [
         size: '642 KB',
         category: 'nature',
     },
+
+ {
+        src: '2.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'architecture',
+    },
     
     // Add more images as needed
 ];
