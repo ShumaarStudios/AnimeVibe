@@ -16,6 +16,79 @@ const images = [
         size: '642 KB',
         category: 'architecture',
     },
+
+{
+        src: '3.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+
+    
+{
+        src: '4.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '5.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '1.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '6.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '7.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '8.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '9.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
+    
+{
+        src: '10.jpg',
+        title: 'Beautiful House',
+        description: 'A stunning view of the mountains with house during sunset.',
+        resolution: '1920x1080',
+        size: '642 KB',
+        category: 'nature',
     
     // Add more images as needed
 ];
